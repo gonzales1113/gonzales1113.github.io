@@ -1,0 +1,8 @@
+Note to self:
+
+If you want to be able to run this 
+
+cd jester-app
+ng-serve
+
+in that order, will create the port and forward it for you to apply the changes
