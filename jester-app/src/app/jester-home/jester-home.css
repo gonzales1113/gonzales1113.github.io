@@ -1,0 +1,7 @@
+.jester-img {
+  width: 60px;        /* adjust as needed */
+  height: 60px;
+  z-index: 10;
+  margin-top: -10px;  /* tweak for visual overlap */
+  margin-right: -10px;
+}
