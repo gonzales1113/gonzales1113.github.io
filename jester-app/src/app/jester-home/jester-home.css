@@ -35,3 +35,12 @@
   transform: rotate(-5deg);
   z-index: 20;
 }
+
+.centerScreen{
+  position: absolute;
+  top:200px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
