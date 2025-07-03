@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/gonzales1113.github.io',
+  basePath: '/',
   supportedLocales: {
   "en-US": ""
 },
