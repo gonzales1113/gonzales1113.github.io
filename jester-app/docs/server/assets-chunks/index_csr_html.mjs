@@ -15,7 +15,7 @@ export default `<!doctype html>
   <app-root></app-root>
 
 
-<script src="main-4OKGJ7DT.js" type="module"></script></body>
+<script src="main-NA4ZF622.js" type="module"></script></body>
 
 
 
